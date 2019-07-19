@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tccpdi\\source\\repos\\Appeon.AdventureWorks\\AdventureWorks\\AdventureWorks.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tccpdi\\source\\repos\\Appeon.AdventureWorks\\AdventureWorks\\AdventureWorks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tccpdi\\source\\repos\\Appeon.AdventureWorks\\AdventureWorks\\AdventureWorks.csproj",
+        "projectName": "AdventureWorks",
+        "projectPath": "C:\\Users\\Tccpdi\\source\\repos\\Appeon.AdventureWorks\\AdventureWorks\\AdventureWorks.csproj",
+        "packagesPath": "C:\\Users\\Tccpdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tccpdi\\source\\repos\\Appeon.AdventureWorks\\AdventureWorks\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tccpdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Appeon.SnapDevelop.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\AppeonPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "PowerBuilder.Data.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "SnapObjects.Data.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "SnapObjects.Data.SqlServer": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

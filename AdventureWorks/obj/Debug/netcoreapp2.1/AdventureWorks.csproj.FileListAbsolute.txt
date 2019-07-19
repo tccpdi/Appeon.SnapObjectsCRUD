@@ -1,0 +1,13 @@
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\bin\Debug\netcoreapp2.1\AdventureWorks.deps.json
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\bin\Debug\netcoreapp2.1\AdventureWorks.runtimeconfig.json
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\bin\Debug\netcoreapp2.1\AdventureWorks.runtimeconfig.dev.json
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\bin\Debug\netcoreapp2.1\AdventureWorks.dll
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\bin\Debug\netcoreapp2.1\AdventureWorks.pdb
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.1\AdventureWorks.csproj.CoreCompileInputs.cache
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.1\AdventureWorks.RazorAssemblyInfo.cache
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.1\AdventureWorks.RazorAssemblyInfo.cs
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.1\AdventureWorks.AssemblyInfoInputs.cache
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.1\AdventureWorks.AssemblyInfo.cs
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.1\AdventureWorks.RazorTargetAssemblyInfo.cache
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.1\AdventureWorks.dll
+C:\Users\Tccpdi\source\repos\Appeon.AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.1\AdventureWorks.pdb
